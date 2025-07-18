@@ -3,3 +3,5 @@ pandas #data manipulation
 scikit-learn #models & data preprocessing
 openai # EDA Process
 groq #EDA Process
+seaborn #Visualization
+dotenv #avoid other people to see my data
