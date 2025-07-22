@@ -306,7 +306,7 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 553,France,Male,38.91,4,118082.89,1,0,0,94440.45,0
 667,France,Male,31.0,1,119266.69,1,1,1,28257.63,0
 731,France,Male,43.0,2,0.0,1,1,1,170034.95,1
-629,Germany,Unknown,35.0,7,156847.29,2,1,0,31824.29,0
+629,Germany,Male,35.0,7,156847.29,2,1,0,31824.29,0
 614,France,Male,50.0,4,137104.47,1,1,0,127166.49,1
 438,Germany,Male,31.0,8,78398.69,1,1,0,44937.01,0
 652,France,Female,80.0,4,0.0,2,1,1,188603.07,0
@@ -2248,7 +2248,7 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 717,Spain,Female,39.0,6,0.0,2,1,0,93275.61,0
 595,Germany,Female,41.0,2,138878.81,1,0,1,112269.67,0
 539,Spain,Female,37.0,1,130922.81,2,0,0,2186.83,0
-762,France,Female,38.91,9,0.0,2,1,1,43075.7,0
+762,France,Male,38.91,9,0.0,2,1,1,43075.7,0
 706,Spain,Male,20.0,8,0.0,2,1,1,12368.11,0
 677,Spain,Female,25.0,8,130866.19,1,1,0,42410.21,0
 733,Germany,Female,33.0,7,187257.94,1,0,1,190430.81,0
@@ -2303,7 +2303,7 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 676,France,Female,61.0,8,0.0,2,1,1,118522.73,0
 723,France,Female,49.0,4,0.0,2,0,1,89972.25,0
 714,Spain,Male,45.0,0,124693.48,1,0,1,187194.15,0
-759,Spain,Female,38.91,7,147936.42,1,1,1,106785.7,0
+759,Spain,Male,38.91,7,147936.42,1,1,1,106785.7,0
 582,France,Male,29.0,0,0.0,1,1,0,142516.35,0
 697,France,Female,34.0,2,126558.92,1,1,0,73334.43,0
 610,Germany,Male,57.0,6,106938.11,2,0,1,186612.47,0
@@ -7917,7 +7917,7 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 695,Spain,Male,56.0,1,0.0,3,1,0,187734.49,1
 562,France,Male,33.0,6,0.0,2,1,0,111590.35,0
 613,Germany,Male,38.0,9,126265.88,2,0,0,15859.95,0
-589,France,Male,37.0,5,0.0,1,1,0,61324.87,0
+589,France,Unknown,37.0,5,0.0,1,1,0,61324.87,0
 593,Spain,Male,31.0,8,112713.34,1,1,1,176868.89,0
 714,France,Male,34.0,5,141173.03,1,0,1,98896.06,0
 588,Spain,Female,35.0,7,0.0,2,1,1,108739.15,0
@@ -9029,7 +9029,7 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 802,Germany,Male,37.0,9,115569.21,1,0,1,119782.89,0
 590,France,Female,45.0,2,81828.22,1,1,0,52167.97,0
 594,Germany,Male,18.0,1,132694.73,1,1,0,167689.56,0
-577,Spain,Male,51.0,2,108867.0,1,0,0,140800.66,1
+577,Spain,Female,51.0,2,108867.0,1,0,0,140800.66,1
 541,France,Male,39.0,7,0.0,2,1,0,19823.02,0
 781,France,Female,38.91,5,0.0,2,0,0,72969.9,0
 806,Germany,Male,34.0,2,96152.68,2,1,0,143711.02,0
