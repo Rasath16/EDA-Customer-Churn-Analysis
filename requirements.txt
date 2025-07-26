@@ -6,3 +6,7 @@ groq #EDA Process
 seaborn #Visualization
 dotenv #avoid other people to see my data
 matplotlib # for visualization
+
+
+
+
